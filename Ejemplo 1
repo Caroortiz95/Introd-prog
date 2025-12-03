@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hola</title>
+  </head>
+  <body>
+    <header>
+      <section>
+        <h1>Imagen y vídeo</h1>
+        <h2>A continuación, un Coco</h2>
+        <img src="coco.webp" alt="Coco" width="400">
+      </section>
+      
+      <iframe width="928" height="522" src="https://www.youtube.com/embed/dsQkyNQyAPg" title="Cosas que se van y cosas que llegan Desocupe Masivo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <h5>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos dolorem
+        accusamus commodi quae, pariatur quisquam temporibus enim soluta
+        delectus consequuntur doloribus explicabo laborum voluptates laboriosam.
+        Ipsum voluptate mollitia in recusandae?
+      </h5>
+
+      <table border="1">
+        <thead>
+          <tr>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Edad</th>
+            <th>Correo</th>
+            <th>Documento</th>
+          </tr>
+        </thead>
+        <body>
+          <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+          <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+          <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+          <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+          <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+        </body>
+      </table>
+      <div></div>
+    </header>
+  </body>
+</html>
